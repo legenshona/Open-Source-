@@ -15,7 +15,7 @@ tan=('https')
 iya=('github')
 ani=('Fariya')
 love=('mbasic')
-ugen=[]
+ugen=[] ok
 ugen=[]
 useragent=[]
 for xd in range(10000):
